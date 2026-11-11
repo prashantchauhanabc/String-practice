@@ -6,7 +6,9 @@ int main(){
     string s = "prashant";
     int n = s.size();
     int half = n/2;
-    reverse(s.begin(),s.begin()+half);
+    for(int i=0; i<n; i++){
+        
+    }
     cout<<s<<endl;
 
 
